@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1707700267 "/Users/kim/Documents/GitHub/cover-letter/cover_letter.tex" "cover_letter.pdf" "cover_letter" 1707700268 0
-  "/Users/kim/Documents/GitHub/cover-letter/cover_letter.tex" 1707700266 2612 f69d124fe17853ed2a706020d0815085 ""
+["pdflatex"] 1707711063 "/Users/kim/Documents/GitHub/cover-letter/cover_letter.tex" "cover_letter.pdf" "cover_letter" 1707711064 0
+  "/Users/kim/Documents/GitHub/cover-letter/cover_letter.tex" 1707711062 2600 52874991af8a3f73db4a7abf1f8d0c6d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1587936753 3021 665788e9679767ade2a71155215d25e0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1--base.tfm" 1587936753 1652 31b9d596c0c8dcc7bcfc0431833ece08 ""
@@ -109,9 +109,9 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "TLCcoverletter.sty" 1707700059 1018 399137591504464cc6d785433947cb00 ""
   "_header.tex" 1707700024 787 850e12c9eade8395c532a03c5370af73 ""
-  "cover_letter.aux" 1707700268 787 c1646160b569674aa7d39e4642a37e25 "pdflatex"
-  "cover_letter.out" 1707700268 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cover_letter.tex" 1707700266 2612 f69d124fe17853ed2a706020d0815085 ""
+  "cover_letter.aux" 1707711064 775 1d424d91cce5f45cd93eb1f5dea162e8 "pdflatex"
+  "cover_letter.out" 1707711064 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cover_letter.tex" 1707711062 2600 52874991af8a3f73db4a7abf1f8d0c6d ""
   "sections/closing.tex" 1707699976 1107 31407b0ec1c10fbe8a087be891b8bbc8 ""
   "sections/opening.tex" 1707699976 950 7ff07b6c0d9a1b2ae165163e1498dcc0 ""
   "sections/second.tex" 1707699975 1254 8794bc20adfd93e9ac26b488a0e07a13 ""
